@@ -9,6 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ## 2021
+* Syful ISLAM, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. An Exploration ofnpmPackage Co-Usage Examples fromStack Overflow: A Case Study. IEICE Transactions on Information and Systems.
 * **Dong Wang**, Tao Xiao, Patanamon Thongtanunam, Raula Gaikovina Kula, Kenichi Matsumoto. Understanding Shared Links and Their Intentions to Meet Information Needs in Modern Code Review: A Case Study of the OpenStack and Qt Projects. Empirical Software Engineering (EMSE). [PDF](https://link.springer.com/article/10.1007/s10664-021-09997-x)
 * **Dong Wang**, Yuki Ueda, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Can We Benchmark Code Review Studies? A Systematic MappingStudy of Methodology, Dataset, and Metric? Journal of System and Software (JSS). 
 * **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Automatic Patch Linkage Detection in Code Review Using Textual Content and File Location Features. Information and Software Technology (IST). 
