@@ -13,6 +13,7 @@ author_profile: true
 ## 2021
 * Tao Xiao, **Dong Wang**, Shane McIntosh, Hideaki Hata, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems. Transactions on Software Engineering (TSE).
 * Syful ISLAM, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. An Exploration ofnpmPackage Co-Usage Examples fromStack Overflow: A Case Study. IEICE Transactions on Information and Systems.
+* Zheng Chen, Ziwei Yang, **Dong Wang**, Ming Huang, Naoaki Ono, Altaf Amin, Shigehiko Kanaya. An End-to-End Sleep Staging Simulator Based on Mixed Deep Neural Networks. 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM).
 * **Dong Wang**, Tao Xiao, Patanamon Thongtanunam, Raula Gaikovina Kula, Kenichi Matsumoto. Understanding Shared Links and Their Intentions to Meet Information Needs in Modern Code Review: A Case Study of the OpenStack and Qt Projects. Empirical Software Engineering (EMSE). [PDF](https://link.springer.com/article/10.1007/s10664-021-09997-x)
 * **Dong Wang**, Yuki Ueda, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Can We Benchmark Code Review Studies? A Systematic MappingStudy of Methodology, Dataset, and Metric? Journal of System and Software (JSS). 
 * **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Automatic Patch Linkage Detection in Code Review Using Textual Content and File Location Features. Information and Software Technology (IST). 
