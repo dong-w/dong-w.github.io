@@ -10,12 +10,13 @@ author_profile: true
 
 ## Paper Review Experience
 
-* Reviewer, Springer Journal of Empirical Software Engineering, 2022.
-* Artifacts Program Committee, FSE 2021.
-* Shadow PC, MSR 2021.
-* Sub-reviewer, MSR 2020 Datacase.
-* Sub-reviewer, ICPC 2020.
-* Sub-reviewer, VISSOFT 2019.
+* Journal Reviewer: Springer Journal of Empirical Software Engineering (2022~).
+* Program Committee: OSS 2022
+* Artifacts Program Committee: FSE 2022, FSE 2021.
+* Shadow PC: MSR 2021.
+* Sub-reviewer: MSR 2020 Datacase.
+* Sub-reviewer: ICPC 2020.
+* Sub-reviewer: VISSOFT 2019.
 
 ## Research Awards & Activities
 
