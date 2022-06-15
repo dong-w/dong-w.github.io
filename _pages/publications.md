@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ## 2022
-* Ifraz Rehman, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Newcomer Candidate: Characterizing Contributions of a Novice Developer to GitHub. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. <span style="background-color:white;color:green;font-weight:700;font-size:14px">CORE A</span>
+* Ifraz Rehman, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Newcomer Candidate: Characterizing Contributions of a Novice Developer to GitHub. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. <span style="color:green;background-color:white;font-weight:700;font-size:14px">CORE A</span>
 ## 2021
 * Tao Xiao, **Dong Wang**, Shane McIntosh, Hideaki Hata, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems. <span style="text-decoration:underline;font-style: italic">Transactions on Software Engineering (TSE)</span>. <span style="color:green;font-weight:700;font-size:14px">CORE A*</span>
 * Syful ISLAM, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. An Exploration ofnpmPackage Co-Usage Examples fromStack Overflow: A Case Study. <span style="text-decoration:underline;font-style: italic">IEICE Transactions on Information and Systems</span>. <span style="color:green;font-weight:700;font-size:14px">SCI Index</span>
