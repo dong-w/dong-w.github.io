@@ -10,7 +10,7 @@ author_profile: true
 
 ## Paper Review Experience
 
-* Journal Reviewer: Springer Journal of Empirical Software Engineering (2022~), IEICE (2022~), science of Computer Programming (2022~).
+* Journal Reviewer: Springer Journal of Empirical Software Engineering (2022~), IEICE (2022~), Science of Computer Programming (2022~).
 * Program Committee: OSS 2022, APSEC 2022, MSR 2023, ICPC 2023, ICSE SEIS 2023
 * Artifacts Program Committee: FSE 2022, FSE 2021.
 * Shadow PC: MSR 2021.
