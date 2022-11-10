@@ -20,12 +20,12 @@ Work Experience
 * 2022.04 - 2022.09 Specially Appointed Assistant Professor, Kyushu Unversity, Japan
 
 
-Education Background :man_student:
+Education Background
 ------
 * PhD of Engineering, 2022, Nara Institute of Science and Technology, Japan.
 * Master of Engineering, 2019, Nara Institute of Science and Technology, Japan.
 
-For more info :envelope:
+For more info
 ------
 More info, please contact me
 ```
