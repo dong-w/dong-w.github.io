@@ -9,9 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ## 2022
-* Ifraz Rehman, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Newcomer Candidate: Characterizing Contributions of a Novice Developer to GitHub. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
-## 2021
 * Tao Xiao, **Dong Wang**, Shane McIntosh, Hideaki Hata, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems. <span style="text-decoration:underline;font-style: italic">Transactions on Software Engineering (TSE)</span>.  <span style="color:red">[Selected for the journal first program of the FSE 2022]</span>  
+* Ifraz Rehman, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Newcomer Candidate: Characterizing Contributions of a Novice Developer to GitHub. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
+* **Dong Wang**, Patanamon Thongtanunam, Raula Gaikovina Kula, Kenichi Matsumoto. An Exploration of Cross-Patch Collaborations via Patch Linkage in OpenStack. <span style="text-decoration:underline;font-style: italic">IEICE Transactions</span>
+## 2021
 * Syful ISLAM, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. An Exploration ofnpmPackage Co-Usage Examples fromStack Overflow: A Case Study. <span style="text-decoration:underline;font-style: italic">IEICE Transactions on Information and Systems</span>.
 * Zheng Chen, Ziwei Yang, **Dong Wang**, Ming Huang, Naoaki Ono, Altaf Amin, Shigehiko Kanaya. An End-to-End Sleep Staging Simulator Based on Mixed Deep Neural Networks. <span style="text-decoration:underline;font-style: italic">2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</span>. 
 * **Dong Wang**, Tao Xiao, Patanamon Thongtanunam, Raula Gaikovina Kula, Kenichi Matsumoto. Understanding Shared Links and Their Intentions to Meet Information Needs in Modern Code Review: A Case Study of the OpenStack and Qt Projects. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. [PDF](https://link.springer.com/article/10.1007/s10664-021-09997-x) <span style="color:red">[Selected for the journal first program of the ICSE 2022]</span> 
