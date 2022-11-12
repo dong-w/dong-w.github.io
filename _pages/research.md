@@ -8,6 +8,7 @@ author_profile: true
 ## Community Service
 
 ### Conference PC Member:
+------
 * International Conference on Software Engineering (ICSE): <span style="text-decoration:underline;font-style: italic">2023@Software Engineering in Society Track</span>
 * International Symposium on the Foundations of Software Engineering (FSE): <span style="text-decoration:underline;font-style: italic">2022@Artifacts Track</span>, <span style="text-decoration:underline;font-style: italic">2021@Artifacts Track</span>
 * International Working Conference on Mining Software Repositories (MSR): <span style="text-decoration:underline;font-style: italic">2023@Research Track</span>, <span style="text-decoration:underline;font-style: italic">2023@Data Showcase Track</span>, <span style="text-decoration:underline;font-style: italic">2023@Industry Track</span>
@@ -16,15 +17,18 @@ author_profile: true
 * International Conference on Open Source Systems (OSS): <span style="text-decoration:underline;font-style: italic">2022@Research Track</span>
 
 ### Journal Reviewer: 
+------
 * Springer Journal of Empirical Software Engineering (2022-)
 * IEICE Transactions on Information and Systems (2022-) 
 * Science of Computer Programming (2022-)
 
 ### Chair:
+------
 * The 11th International Workshop on Empirical Software Engineering in Practice (IWESEP), Publication Chair.
 * The 10th International Workshop on Empirical Software Engineering in Practice (IWESEP), Web Chair.
 
 ### Subreview:
+------
 * Conference referee for MSR 2020 Data Showcase.
 * Conference referee for ICPC 2020.
 * Conference referee for VISSOFT 2019.
