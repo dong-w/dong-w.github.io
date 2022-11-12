@@ -25,7 +25,7 @@ Education Background
 * PhD of Engineering, 2022, Nara Institute of Science and Technology, Japan.
 * Master of Engineering, 2019, Nara Institute of Science and Technology, Japan.
 
-For more information
+📥 For more information
 ------
 Please contact me
 ```
