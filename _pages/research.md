@@ -25,7 +25,7 @@ author_profile: true
 * The 10th International Workshop on Empirical Software Engineering in Practice (IWESEP), Web Chair.
 
 ### Subreview:
-* Conference referee for MSR 2020 Datacase.
+* Conference referee for MSR 2020 Data Showcase.
 * Conference referee for ICPC 2020.
 * Conference referee for VISSOFT 2019.
 
