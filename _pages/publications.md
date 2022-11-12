@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ## 2022
-* Tao Xiao, **Dong Wang**, Shane McIntosh, Hideaki Hata, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems. <span style="text-decoration:underline;font-style: italic">Transactions on Software Engineering (TSE)</span>.  <span style="color:red">[Selected for the journal first program of the FSE 2022]</span>  
+* Tao Xiao, **Dong Wang**, Shane McIntosh, Hideaki Hata, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. <span style="background-color:#FFCACA;">Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems</span>. <span style="text-decoration:underline;font-style: italic">Transactions on Software Engineering (TSE)</span>.  <span style="color:red">[Selected for the journal first program of the FSE 2022]</span>  
 * Ifraz Rehman, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. Newcomer Candidate: Characterizing Contributions of a Novice Developer to GitHub. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
 * **Dong Wang**, Patanamon Thongtanunam, Raula Gaikovina Kula, Kenichi Matsumoto. An Exploration of Cross-Patch Collaborations via Patch Linkage in OpenStack. <span style="text-decoration:underline;font-style: italic">IEICE Transactions on Information and Systems</span>.
 ## 2021
