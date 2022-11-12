@@ -25,9 +25,9 @@ Education Background
 * PhD of Engineering, 2022, Nara Institute of Science and Technology, Japan.
 * Master of Engineering, 2019, Nara Institute of Science and Technology, Japan.
 
-For more info
+For more information
 ------
-More info, please contact me
+Please contact me
 ```
 d.wang@ait.kyushu-u.ac.jp
 ```
