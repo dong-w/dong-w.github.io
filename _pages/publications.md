@@ -9,9 +9,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ## 2022
+* Giving Back: Contributions Congruent to Library Dependency Changes in a Software Ecosystem. Supatsara Wattanakriengkrai, **Dong Wang**, Raula Gaikovina Kula, Christoph Treude, Patanamon Thongtanunam, Takashi Ishio, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Transactions on Software Engineering (TSE) - to appear</span>.
 * Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems. Tao Xiao, **Dong Wang**, Shane McIntosh, Hideaki Hata, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Transactions on Software Engineering (TSE)</span>.  <span style="color:red">[Selected for the journal first program of the FSE 2022]</span>  
 * Newcomer Candidate: Characterizing Contributions of a Novice Developer to GitHub. Ifraz Rehman, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
 * An Exploration of Cross-Patch Collaborations via Patch Linkage in OpenStack. **Dong Wang**, Patanamon Thongtanunam, Raula Gaikovina Kula, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">IEICE Transactions on Information and Systems</span>.
+
 ## 2021
 * An Exploration of npm Package Co-Usage Examples from Stack Overflow: A Case Study. Syful ISLAM, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">IEICE Transactions on Information and Systems</span>.
 * Understanding Shared Links and Their Intentions to Meet Information Needs in Modern Code Review: A Case Study of the OpenStack and Qt Projects. **Dong Wang**, Tao Xiao, Patanamon Thongtanunam, Raula Gaikovina Kula, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. [PDF](https://link.springer.com/article/10.1007/s10664-021-09997-x) <span style="color:red">[Selected for the journal first program of the ICSE 2022]</span> 
