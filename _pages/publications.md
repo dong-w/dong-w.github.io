@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ## 2023
-* Towards Privacy Preserving Cross Project Defect Prediction with Federated Learning. Hiroki Yamamoto, **Dong Wang**, Gopi Rajbahadur, Masanari Kondo, Yasutaka Kamei, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2023)</span>.
+* Towards Privacy Preserving Cross Project Defect Prediction with Federated Learning. Hiroki Yamamoto, **Dong Wang**, Gopi Rajbahadur, Masanari Kondo, Yasutaka Kamei, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)</span>.
 
 ## 2022
 * Giving Back: Contributions Congruent to Library Dependency Changes in a Software Ecosystem. Supatsara Wattanakriengkrai, **Dong Wang**, Raula Gaikovina Kula, Christoph Treude, Patanamon Thongtanunam, Takashi Ishio, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Transactions on Software Engineering (TSE) - to appear</span>.
