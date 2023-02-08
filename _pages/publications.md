@@ -10,12 +10,12 @@ author_profile: true
 {% endif %}
 ## 2023
 * Towards Privacy Preserving Cross Project Defect Prediction with Federated Learning. Hiroki Yamamoto, **Dong Wang**, Gopi Rajbahadur, Masanari Kondo, Yasutaka Kamei, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)</span>.
+* An Exploration of Cross-Patch Collaborations via Patch Linkage in OpenStack. **Dong Wang**, Patanamon Thongtanunam, Raula Gaikovina Kula, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">IEICE Transactions on Information and Systems</span>.
 
 ## 2022
-* Giving Back: Contributions Congruent to Library Dependency Changes in a Software Ecosystem. Supatsara Wattanakriengkrai, **Dong Wang**, Raula Gaikovina Kula, Christoph Treude, Patanamon Thongtanunam, Takashi Ishio, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Transactions on Software Engineering (TSE) - to appear</span>.
+* Giving Back: Contributions Congruent to Library Dependency Changes in a Software Ecosystem. Supatsara Wattanakriengkrai, **Dong Wang**, Raula Gaikovina Kula, Christoph Treude, Patanamon Thongtanunam, Takashi Ishio, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Transactions on Software Engineering (TSE)</span>.  <span style="color:red">[Selected for the journal first program of the ICSE 2022=3]</span>
 * Characterizing and Mitigating Self-Admitted Technical Debt in Build Systems. Tao Xiao, **Dong Wang**, Shane McIntosh, Hideaki Hata, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Transactions on Software Engineering (TSE)</span>.  <span style="color:red">[Selected for the journal first program of the FSE 2022]</span>  
 * Newcomer Candidate: Characterizing Contributions of a Novice Developer to GitHub. Ifraz Rehman, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
-* An Exploration of Cross-Patch Collaborations via Patch Linkage in OpenStack. **Dong Wang**, Patanamon Thongtanunam, Raula Gaikovina Kula, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">IEICE Transactions on Information and Systems</span>.
 
 ## 2021
 * An Exploration of npm Package Co-Usage Examples from Stack Overflow: A Case Study. Syful ISLAM, **Dong Wang**, Raula Gaikovina Kula, Takashi Ishio, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">IEICE Transactions on Information and Systems</span>.
