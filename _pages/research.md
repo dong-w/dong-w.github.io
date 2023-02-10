@@ -22,6 +22,7 @@ author_profile: true
 * Automated Software Engineering (2022-)
 * IEICE Transactions on Information and Systems (2022-) 
 * Science of Computer Programming (2022-)
+* Journal of Software: Evolution and Process (2023-)
 
 ### 3. Organizing Committee:
 ------
