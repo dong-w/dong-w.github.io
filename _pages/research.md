@@ -12,6 +12,7 @@ author_profile: true
 * International Conference on Software Engineering (ICSE): <span style="text-decoration:underline;font-style: italic">2023@Software Engineering in Society Track</span>
 * International Symposium on the Foundations of Software Engineering (FSE): <span style="text-decoration:underline;font-style: italic">2023@Student Research Competition</span>, <span style="text-decoration:underline;font-style: italic">2022@Artifacts Track</span>, <span style="text-decoration:underline;font-style: italic">2021@Artifacts Track</span>
 * International Working Conference on Mining Software Repositories (MSR): <span style="text-decoration:underline;font-style: italic">2023@Research Track</span>, <span style="text-decoration:underline;font-style: italic">2023@Data Showcase Track</span>, <span style="text-decoration:underline;font-style: italic">2023@Industry Track</span>
+* International Conference on Software Maintenance and Evolution (ICSME): <span style="text-decoration:underline;font-style: italic">2023@NIER Track</span>
 * International Conference on Program Comprehension (ICPC): <span style="text-decoration:underline;font-style: italic">2023@Research Track</span>
 * Asia-Pacific Software Engineering Conference (APSEC): <span style="text-decoration:underline;font-style: italic">2022@ERA Track</span>
 * International Conference on Open Source Systems (OSS): <span style="text-decoration:underline;font-style: italic">2022@Research Track</span>
