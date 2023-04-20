@@ -20,10 +20,10 @@ author_profile: true
 ### 2. Journal Referee: 
 ------
 * Springer Journal of Empirical Software Engineering (2022-)
-* Journals of Systems and Software (2023-)
 * Automated Software Engineering (2022-)
 * IEICE Transactions on Information and Systems (2022-) 
 * Science of Computer Programming (2022-)
+* Journals of Systems and Software (2023-)
 * Journal of Software: Evolution and Process (2023-)
 
 ### 3. Organizing Committee:
