@@ -46,6 +46,7 @@ author_profile: true
 * 2019.10-2019.11, The University of Melbourne, Australia, under [Patanamon Thongtanunam](https://patanamon.com/).
 
 ## Research Awards & Scholarships
+* Distinguished Reviewer Award, MSR 2023.
 * Best Poster Awards, 25th Asia-Pacific Software Engineering Conference (APSEC).
 * Jasso Honor’s Scholarship, 2017-2019.
 * MEXT – Top Global University Project Scholarship, 2019-2021.
