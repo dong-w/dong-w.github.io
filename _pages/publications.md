@@ -9,6 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ## 2023
+* When Conversations Turn Into Work: A Taxonomy of Converted Discussions and Issues in GitHub. **Dong Wang**, Masanari Kondo, Yasutaka Kamei, Raula Gaikovina Kula, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
 * More Than React: Investigating The Role of Emoji Reaction in GitHub Pull Requests. **Dong Wang**, Tao Xiao, Teyon Son, Raula Gaikovina Kula, Takashi Ishio, Yasutaka Kamei, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
 * Understanding the Role of Images on Stack Overflow. **Dong Wang**, Tao Xiao, Christoph Treude, Raula Gaikovina Kula, Hideaki Hata, Yasutaka Kamei. <span style="text-decoration:underline;font-style: italic">20th IEEE International Conference on Mining Software Repositories (MSR) </span>.
 * Towards Privacy Preserving Cross Project Defect Prediction with Federated Learning. Hiroki Yamamoto, **Dong Wang**, Gopi Rajbahadur, Masanari Kondo, Yasutaka Kamei, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)</span>.
