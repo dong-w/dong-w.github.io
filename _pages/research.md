@@ -21,14 +21,14 @@ author_profile: true
 
 ### 2. Journal Referee: 
 ------
-* Springer Journal of Empirical Software Engineering (2022-)
-* Automated Software Engineering (2022-)
-* IEICE Transactions on Information and Systems (2022-) 
-* Science of Computer Programming (2022-)
-* ACM Transactions on Software Engineering and Methodology (2023-)
-* IEEE Transactions on Software Engineering (2023-)
-* Journals of Systems and Software (2023-)
-* Journal of Software: Evolution and Process (2023-)
+* IEEE Transactions on Software Engineering (TSE)
+* ACM Transactions on Software Engineering and Methodology (TOSEM)
+* Springer Journal of Empirical Software Engineering (EMSE)
+* Journals of Systems and Software (JSS)
+* Automated Software Engineering (ASE)
+* Journal of Software: Evolution and Process (JSEP)
+* Science of Computer Programming (SCP)
+* IEICE Transactions on Information and Systems
 
 ### 3. Organizing Committee:
 ------
