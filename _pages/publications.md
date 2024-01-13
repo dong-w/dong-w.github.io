@@ -8,6 +8,9 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+## 2024
+* Exploring the Effect of Multiple Natural Languages on Code Suggestion Using GitHub Copilot. Kei Koyanagi, **Dong Wang**, Kotaro Noguchi, Masanari Kondo, Alexander Serebrenik, Yasutaka Kamei, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">21th IEEE International Conference on Mining Software Repositories (MSR) </span>.
+
 ## 2023
 * Unjustifiable Waste: An Empirical Study of Repeated Builds  During Code Review. Rungroj Maipradit, **Dong Wang**, Patanamon Thongtanunam, Raula Gaikovina Kula, Yasutaka Kamei, Shane McIntosh. <span style="text-decoration:underline;font-style: italic">38th IEEE/ACM International Conference on Automated Software Engineering (ASE)</span>. <span style="color:red">[Corresponding author]</span> (to appear)
 * When Conversations Turn Into Work: A Taxonomy of Converted Discussions and Issues in GitHub. **Dong Wang**, Masanari Kondo, Yasutaka Kamei, Raula Gaikovina Kula, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
