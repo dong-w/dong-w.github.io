@@ -9,10 +9,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ## 2024
+* Quantifying and Characterizing Clones of Self-Admitted Technical Debt in Build Systems. Tao Xiao, Zhili Zeng, **Dong Wang**, Hideaki Hata, Shane McIntosh, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. <span style="color:red">[Corresponding author]</span> 
 * Exploring the Effect of Multiple Natural Languages on Code Suggestion Using GitHub Copilot. Kei Koyanagi, **Dong Wang**, Kotaro Noguchi, Masanari Kondo, Alexander Serebrenik, Yasutaka Kamei, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">21th IEEE International Conference on Mining Software Repositories (MSR) </span>.
 
 ## 2023
-* Unjustifiable Waste: An Empirical Study of Repeated Builds  During Code Review. Rungroj Maipradit, **Dong Wang**, Patanamon Thongtanunam, Raula Gaikovina Kula, Yasutaka Kamei, Shane McIntosh. <span style="text-decoration:underline;font-style: italic">38th IEEE/ACM International Conference on Automated Software Engineering (ASE)</span>. <span style="color:red">[Corresponding author]</span> (to appear)
+* Unjustifiable Waste: An Empirical Study of Repeated Builds  During Code Review. Rungroj Maipradit, **Dong Wang**, Patanamon Thongtanunam, Raula Gaikovina Kula, Yasutaka Kamei, Shane McIntosh. <span style="text-decoration:underline;font-style: italic">38th IEEE/ACM International Conference on Automated Software Engineering (ASE)</span>. <span style="color:red">[Corresponding author]</span> 
 * When Conversations Turn Into Work: A Taxonomy of Converted Discussions and Issues in GitHub. **Dong Wang**, Masanari Kondo, Yasutaka Kamei, Raula Gaikovina Kula, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
 * More Than React: Investigating The Role of Emoji Reaction in GitHub Pull Requests. **Dong Wang**, Tao Xiao, Teyon Son, Raula Gaikovina Kula, Takashi Ishio, Yasutaka Kamei, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
 * Understanding the Role of Images on Stack Overflow. **Dong Wang**, Tao Xiao, Christoph Treude, Raula Gaikovina Kula, Hideaki Hata, Yasutaka Kamei. <span style="text-decoration:underline;font-style: italic">20th IEEE International Conference on Mining Software Repositories (MSR) </span>.
