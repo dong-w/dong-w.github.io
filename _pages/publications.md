@@ -9,6 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ## 2024
+* Understanding the Characteristics and the Role of Visual Issue Reports. Hiroki Kuramoto, Dong Wang, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. <span style="color:red">[Corresponding author]</span> 
 * Quantifying and Characterizing Clones of Self-Admitted Technical Debt in Build Systems. Tao Xiao, Zhili Zeng, **Dong Wang**, Hideaki Hata, Shane McIntosh, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. <span style="color:red">[Corresponding author]</span> 
 * Exploring the Effect of Multiple Natural Languages on Code Suggestion Using GitHub Copilot. Kei Koyanagi, **Dong Wang**, Kotaro Noguchi, Masanari Kondo, Alexander Serebrenik, Yasutaka Kamei, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">21th IEEE International Conference on Mining Software Repositories (MSR) </span>.
 
