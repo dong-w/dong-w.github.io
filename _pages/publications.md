@@ -9,6 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 ## 2024
+* A Disruptive Research Playbook for Studying Disruptive Innovations. Margaret-Anne Storey, Daniel Russo, Nicole Novielli, Takashi Kobayashi, **Dong Wang**. <span style="text-decoration:underline;font-style: italic">(Preprint)</span>
 * Towards Identifying Python Proficiency to Foster Software Maintenance and Evolution. Ruksit Rojpaisarnkit, Gregorio Robles, Raula Gaikovina Kula, **Dong Wang**, Chaiyong Ragkhitwetsagul, Jesus M. Gonzalez-Barahona, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">40th IEEE International Conference on Software Maintenance and Evolution (ICSME)</span>.
 * Understanding the Characteristics and the Role of Visual Issue Reports. Hiroki Kuramoto, **Dong Wang***, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
 * Quantifying and Characterizing Clones of Self-Admitted Technical Debt in Build Systems. Tao Xiao, Zhili Zeng, **Dong Wang***, Hideaki Hata, Shane McIntosh, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
