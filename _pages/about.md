@@ -30,6 +30,6 @@ Contact information
 * Office: Room A317, Building #55, Tianjin University (Beiyangyuan Campus)
 * Email: d.wang@ait.kyushu-u.ac.jp
 
-<img src="images/tianjin-icon.png" width="100" height="100" alt="Image 1">
-<img src="images/lab-icon.png" width="100" height="100" alt="Image 1">
+<img src="images/tianjin-icon.png" width="100" height="100" alt="Image 1" class="center">
+<img src="images/lab-icon.png" width="100" height="100" alt="Image 1" class="center">
 
