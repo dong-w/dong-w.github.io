@@ -33,7 +33,6 @@ Contact information
 
 <div align="center">
 <img src="images/tianjin-icon.png" alt="Image 1" width="100" height="100" >
-<img src="images/zhineng-icon.jpeg" alt="Image 2" width="100" height="100" >
 <img src="images/lab-icon.png" alt="Image 3" height="300" width="200">
 </div>
 
