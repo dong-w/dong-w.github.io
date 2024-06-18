@@ -32,6 +32,7 @@ author_profile: true
 
 ### 3. Organizing Committee:
 ------
+* The 21st International Conference on Mining Software Repositories (MSR), Tutorial Track Co-Chair
 * The 11th International Workshop on Empirical Software Engineering in Practice (IWESEP), Publication Chair.
 * The 10th International Workshop on Empirical Software Engineering in Practice (IWESEP), Web Chair.
 
