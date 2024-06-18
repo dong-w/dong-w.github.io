@@ -31,7 +31,7 @@ Contact information
 * Email: d.wang@ait.kyushu-u.ac.jp
 
 <div align="center">
-<img src="images/tianjin-icon.png" width="100" height="100" alt="Image 1">
-<img src="images/lab-icon.png" width="100" height="500" alt="Image 2">
+<img src="images/tianjin-icon.png" alt="Image 1">
+<img src="images/lab-icon.png" alt="Image 2">
 </div>
 
