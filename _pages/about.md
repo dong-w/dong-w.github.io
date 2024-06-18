@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor (Tenure-track) at the [Software Analysis and Intelligence Lab](https://tjusail.github.io/), Tianjin University, China. Before joining Tianjin University, I worked as an Assistant Professor at the [Principles of Software engineering and programming Languages Lab (POSL)](https://posl.ait.kyushu-u.ac.jp/index.html), Kyushu University, Japan. I received doctoral degree from Nara Institute of Science and Technology under the supervision of Prof. Kenichi Matsumoto ([Software Engineering Laboratory](https://naist-se.github.io/)).
+<p><div style="text-align: right"> I am an Associate Professor (Tenure-track) at the [Software Analysis and Intelligence Lab](https://tjusail.github.io/), Tianjin University, China. Before joining Tianjin University, I worked as an Assistant Professor at the [Principles of Software engineering and programming Languages Lab (POSL)](https://posl.ait.kyushu-u.ac.jp/index.html), Kyushu University, Japan. I received doctoral degree from Nara Institute of Science and Technology under the supervision of Prof. Kenichi Matsumoto ([Software Engineering Laboratory](https://naist-se.github.io/)). </div></p>
 
-Research interests include mining software repositories, empirical software engineering, and AI4SE. His research goals focus on uncovering empirical evidence, extracting knowledge from historical data in software repositories (particularly OSS), gleaning actionable insights for software engineering management, and developing automated approaches to support developers. 
+
+<p><div style="text-align: right">Research interests include mining software repositories, empirical software engineering, and AI4SE. His research goals focus on uncovering empirical evidence, extracting knowledge from historical data in software repositories (particularly OSS), gleaning actionable insights for software engineering management, and developing automated approaches to support developers. </div></p>
 
 Work Experience
 ------
