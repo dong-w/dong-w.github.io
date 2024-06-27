@@ -28,7 +28,7 @@ Education Background
 Contact information
 ------
 * Office: Room A317, Building #55, Tianjin University (Beiyangyuan Campus)
-* Email: d.wang@ait.kyushu-u.ac.jp
+* Email: dong_w@tju.edu.cn
 
 
 <div align="center">
