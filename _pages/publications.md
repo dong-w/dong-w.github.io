@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 ## 2025
 * Selecting Initial Seeds for Better JVM Fuzzing. Tianchang Gao, Junjie Chen, **Dong Wang**, Yile Guo, Yingquan Zhao, Zan Wang.  <span style="text-decoration:underline;font-style: italic">47th IEEE/ACM International Conference on Software Engineering (ICSE)</span>.
+  
 ## 2024 
 * Large Language Models for Equivalent Mutant Detection: How Far are We? Zhao Tian, **Dong Wang***, Xuejie Cao, Yasutaka Kamei, Junjie Chen. <span style="text-decoration:underline;font-style: italic">33rd International Symposium on Software Testing and Analysis (ISSTA)</span>.
 * A Disruptive Research Playbook for Studying Disruptive Innovations. Margaret-Anne Storey, Daniel Russo, Nicole Novielli, Takashi Kobayashi, **Dong Wang**. <span style="text-decoration:underline;font-style: italic">(Preprint)</span>
