@@ -18,6 +18,8 @@ author_profile: true
 * Understanding the Characteristics and the Role of Visual Issue Reports. Hiroki Kuramoto, **Dong Wang***, Masanari Kondo, Yutaro Kashiwa, Yasutaka Kamei, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
 * Quantifying and Characterizing Clones of Self-Admitted Technical Debt in Build Systems. Tao Xiao, Zhili Zeng, **Dong Wang***, Hideaki Hata, Shane McIntosh, Kenichi Matsumoto. <span style="text-decoration:underline;font-style: italic">Empirical Software Engineering (EMSE)</span>. 
 * Exploring the Effect of Multiple Natural Languages on Code Suggestion Using GitHub Copilot. Kei Koyanagi, **Dong Wang**, Kotaro Noguchi, Masanari Kondo, Alexander Serebrenik, Yasutaka Kamei, Naoyasu Ubayashi. <span style="text-decoration:underline;font-style: italic">21th IEEE International Conference on Mining Software Repositories (MSR) </span>.
+* GitRev: An LLM-based Gamification Framework for Modern Code Review Activities. Jasem Khelifi, Moataz Chouchen, Ali Ouni, Raula Gaikovina Kula, **Dong Wang**, Salma Hamza and Mohamed Wiem Mkaouer. <span style="text-decoration:underline;font-style: italic">24th IEEE International
+Conference on Source Code Analysis and Manipulation (SCAM) </span>.
 
 ## 2023
 * Unjustifiable Waste: An Empirical Study of Repeated Builds  During Code Review. Rungroj Maipradit, **Dong Wang***, Patanamon Thongtanunam, Raula Gaikovina Kula, Yasutaka Kamei, Shane McIntosh. <span style="text-decoration:underline;font-style: italic">38th IEEE/ACM International Conference on Automated Software Engineering (ASE)</span>. 
