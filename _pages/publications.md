@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 ## 2025
 * Selecting Initial Seeds for Better JVM Fuzzing. Tianchang Gao, Junjie Chen, **Dong Wang**, Yile Guo, Yingquan Zhao, Zan Wang.  <span style="text-decoration:underline;font-style: italic">47th IEEE/ACM International Conference on Software Engineering (ICSE)</span>.
 * LEAM++: Learning for Selective Mutation Fault Construction. Zhao Tian, Junjie Chen, **Dong Wang***, Qihao Zhu, Xingyu Fan, Lingming Zhang.  <span style="text-decoration:underline;font-style: italic">Transactions on Software Engineering and Methodolog (TOSEM)</span>.
