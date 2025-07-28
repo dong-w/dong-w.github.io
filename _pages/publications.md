@@ -17,6 +17,7 @@ author_profile: true
 * A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection. Junji Yu, Honglin Shu, Michael Fu, **Dong Wang***, Chakkrit Tantithamthavorn, Yasutaka Kamei, Junjie Chen.  <span style="text-decoration:underline;font-style: italic">In The 1st International Workshop on Large Language Model Supply Chain Analysis (LLMSC)</span>.
 * Large Language Models for Multilingual Vulnerability Detection: How Far Are We?. Honglin Shu, Michael Fu, Junji Yu, **Dong Wang***, Chakkrit Tantithamthavorn, Yasutaka Kamei, Junjie Chen.  <span style="text-decoration:underline;font-style: italic">Under Review</span>.
 * On the Evaluation of Large Language Models in Multilingual Vulnerability Repair. Junji Yu, **Dong Wang***, Honglin Shu, Michael Fu, Chakkrit Tantithamthavorn, Junjie Chen, Yasutaka Kamei.  <span style="text-decoration:underline;font-style: italic">Under Review</span>.
+* FLAME: Enhancing Functional Coverage in Processor Verification via Large Language Models. Xiaopeng Li, Junjie Chen, Ming Yan, **Dong Wang**, Xingyu Fan, Zhentao Tang, Shixiong Kai, Jianye Hao, Mingxuan Yuan, Zan Wang.  <span style="text-decoration:underline;font-style: italic">Under Review</span>.
 * A Survey of Reinforcement Learning for Software Engineering. **Dong Wang**, Hanmo You, Lingwei Zhu, Kaiwei Lin, Zheng Chen, Chen Yang, Junji Yu, Zan Wang, Junjie Chen.  <span style="text-decoration:underline;font-style: italic">Under Review</span>.
   
 ## 2024 
