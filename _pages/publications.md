@@ -10,6 +10,7 @@ author_profile: true
 {% endif %}
 ## 2025
 * Selecting Initial Seeds for Better JVM Fuzzing. Tianchang Gao, Junjie Chen, **Dong Wang**, Yile Guo, Yingquan Zhao, Zan Wang.  <span style="text-decoration:underline">47th IEEE/ACM International Conference on Software Engineering (ICSE)</span>.
+* Clarifying Semantics of In-Context Examples for Unit Test Generation. Chen Yang, Lin Yang, Ziqi Wang, **Dong Wang**, Jianyi Zhou, Junjie Chen. <span style="text-decoration:underline">40th IEEE/ACM International Conference on Automated Software Engineering (ASE)</span>.
 * An Empirical Study on Language Models for Generating Log Statements in Test Code. Honlin Shu, **Dong Wang***, Antonio Mastropaolo, Gabriele Bavota, Yasutaka Kamei. <span style="text-decoration:underline">Transactions on Software Engineering and Methodolog (TOSEM)</span>.
 * LEAM++: Learning for Selective Mutation Fault Construction. Zhao Tian, Junjie Chen, **Dong Wang***, Qihao Zhu, Xingyu Fan, Lingming Zhang.  <span style="text-decoration:underline">Transactions on Software Engineering and Methodolog (TOSEM)</span>.
 * Developer Reactions to Protestware in Open Source Software: The cases of color.js and es5.ext. Youmei Fan, **Dong Wang***, Supatsara Wattanakriengkrai, Hathaichanok Damrongsiri, Christoph Treude, Hideaki Hata, Raula Gaikovina Kula. <span style="text-decoration:underline">Empirical Software Engineering (EMSE)</span>.
