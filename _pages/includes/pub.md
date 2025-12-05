@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-- <h1 style="color : purple">[ICSE'26] WiseUT: An Intelligent Framework for Unit Test Generation.</h1><br/>
+- <span style="color : purple">[ICSE'26] WiseUT: An Intelligent Framework for Unit Test Generation.</span><br/>
 Chen Yang, Ziqi Wang, Lin Yang, **Dong Wang**, Shutao Gao, Yanjie Jiang, Junjie Chen. 
 The 48th International Conference on Software Engineering, Demos.
 - <code style="color : purple">[ICSE'25] Selecting Initial Seeds for Better JVM Fuzzing.</code><br/>
