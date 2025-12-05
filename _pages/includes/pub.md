@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# 📌 Publications 
 - <span style="color : purple">[arXiv] **A Survey of Reinforcement Learning for Software Engineering**.</span><br/>
   **Dong Wang**, Hanmo You, Lingwei Zhu, Kaiwei Lin, Zheng Chen, Chen Yang, Junji Yu, Zan Wang, Junjie Chen.
 - <span style="color : purple">[arXiv] **Issue-Oriented Agent-Based Framework for Automated Review Comment Generation**.</span><br/>
@@ -13,7 +13,7 @@ Chen Yang, Ziqi Wang, Lin Yang, **Dong Wang**, Shutao Gao, Yanjie Jiang, Junjie 
 The 48th International Conference on Software Engineering, Demos.
 - <span style="color : purple">[ICSE'25] **Selecting Initial Seeds for Better JVM Fuzzing**.</span><br/>
   Tianchang Gao, Junjie Chen, **Dong Wang**, Yile Guo, Yingquan Zhao, Zan Wang. The 47th IEEE/ACM International Conference on Software Engineering.
-- <span style="color : purple">[ASE'25] **Clarifying Semantics of In-Context Examples for Unit Test Generation**.</span><br/>
+- <span style="color : purple">[ASE'25] **Clarifying Semantics of In-Context Examples for Unit Test Generation**.</span>🏆<span style="color : red">[**Distinguished Paper Award**]</span><br/>
    Chen Yang, Lin Yang, Ziqi Wang, **Dong Wang**, Jianyi Zhou, Junjie Chen. 40th IEEE/ACM International Conference on Automated Software Engineering.
 - <span style="color : purple">[TOSEM'25] **On the Evaluation of Large Language Models in Multilingual Vulnerability Repair**.</span><br/>
   **Dong Wang**, Junji Yu, Honglin Shu, Michael Fu, Chakkrit Tantithamthavorn, Junjie Chen, Yasutaka Kamei. ACM Transactions on Software Engineering and Methodology.
