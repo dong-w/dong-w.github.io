@@ -29,7 +29,7 @@ Youmei Fan, **Dong Wang***, Supatsara Wattanakriengkrai, Hathaichanok Damrongsir
 Haichi Wang, Ruiguo Yu, **Dong Wang**, Yiheng Du, Yingquan Zhao, Junjie Chen, Zan Wang. Automated Software Engineering Journal.
 - <span style="color : purple">[ISSTA'25 - Workshop] **A Preliminary Study of Large Language Models for Multilingual Vulnerability Detection**.</span><br/>
 Junji Yu, Honglin Shu, Michael Fu, **Dong Wang***, Chakkrit Tantithamthavorn, Yasutaka Kamei, Junjie Chen. The 1st International Workshop on Large Language Model Supply Chain Analysis.
-- <span style="color : purple">[ISSTA'24] **Large Language Models for Equivalent Mutant Detection: How Far are We?**.</span><br/>
+- <span style="color : purple">[ISSTA'24] **Large Language Models for Equivalent Mutant Detection: How Far are We?**.</span>🏆<span style="color : red">[**Distinguished Paper Award**]</span><br/>
 Zhao Tian, Honglin Shu, **Dong Wang***, Xuejie Cao, Yasutaka Kamei, Junjie Chen. 33rd International Symposium on Software Testing and Analysis.
 - <span style="color : purple">[TOSEM'24] **A Disruptive Research Playbook for Studying Disruptive Innovations**.</span><br/>
 Margaret-Anne Storey, Daniel Russo, Nicole Novielli, Takashi Kobayashi, **Dong Wang**. ACM Transactions on Software Engineering and Methodology.
