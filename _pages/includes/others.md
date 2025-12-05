@@ -21,8 +21,8 @@
 * Science of Computer Programming (SCP)
 
 ### 3. Organizing Committee:
-* The 22nd International Conference on Mining Software Repositories (MSR), Proceeding Co-Chair
-* The 21st International Conference on Mining Software Repositories (MSR), Tutorial Track Co-Chair
+* The 22nd International Conference on Mining Software Repositories (MSR), Proceeding Co-Chair.
+* The 21st International Conference on Mining Software Repositories (MSR), Tutorial Track Co-Chair.
 * The 11th International Workshop on Empirical Software Engineering in Practice (IWESEP), Publication Chair.
 * The 10th International Workshop on Empirical Software Engineering in Practice (IWESEP), Web Chair.
 
