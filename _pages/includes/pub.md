@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-- ``ICSE'26`` **WiseUT: An Intelligent Framework for Unit Test Generation**. <br/>
+- <code style="color : magenta">[ICSE'26] **WiseUT: An Intelligent Framework for Unit Test Generation**.</code><br/>
 Chen Yang, Ziqi Wang, Lin Yang, **Dong Wang**, Shutao Gao, Yanjie Jiang, Junjie Chen. 
 The 48th International Conference on Software Engineering, Demos.
 - ``ICSE'25`` **Selecting Initial Seeds for Better JVM Fuzzing**.<br/>
