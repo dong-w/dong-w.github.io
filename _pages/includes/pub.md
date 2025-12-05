@@ -1,5 +1,13 @@
 
 # 📝 Publications 
+- <span style="color : purple">[arXiv] **A Survey of Reinforcement Learning for Software Engineering**.</span><br/>
+  **Dong Wang**, Hanmo You, Lingwei Zhu, Kaiwei Lin, Zheng Chen, Chen Yang, Junji Yu, Zan Wang, Junjie Chen.
+- <span style="color : purple">[arXiv] **Issue-Oriented Agent-Based Framework for Automated Review Comment Generation**.</span><br/>
+  Shuochuan Li, **Dong Wang***, Patanamon Thongtanunam, Zan Wang, Jiuqiao Yu, Junjie Chen
+- <span style="color : purple">[arXiv] **Large Language Models for Multilingual Vulnerability Detection: How Far Are We?**.</span><br/>
+  Honglin Shu, Michael Fu, Junji Yu, **Dong Wang***, Chakkrit Tantithamthavorn, Yasutaka Kamei, Junjie Chen.
+- <span style="color : purple">[arXiv] **FLAME: Enhancing Functional Coverage in Processor Verification via Large Language Models**.</span><br/>
+  Xiaopeng Li, Junjie Chen, Ming Yan, **Dong Wang**, Xingyu Fan, Zhentao Tang, Shixiong Kai, Jianye Hao, Mingxuan Yuan, Zan Wang.
 - <span style="color : purple">[ICSE'26] **WiseUT: An Intelligent Framework for Unit Test Generation**.</span><br/>
 Chen Yang, Ziqi Wang, Lin Yang, **Dong Wang**, Shutao Gao, Yanjie Jiang, Junjie Chen. 
 The 48th International Conference on Software Engineering, Demos.
