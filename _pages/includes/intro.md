@@ -3,3 +3,5 @@ I am now an Associate Professor (Tenure Track) at the <a style="color:green;">WI
 Before joining Tianjin University, I worked as an Assistant Professor at the <a href="https://posl.ait.kyushu-u.ac.jp/index.html" style="color:green;">Principles of Software engineering and programming Languages Lab (POSL)</a>, Kyushu University, Japan. I received doctoral degree from Nara Institute of Science and Technology under the supervision of Prof. Kenichi Matsumoto (<a href="https://naist-se.github.io/" style="color:green;">Software Engineering Laboratory</a>).
 
 My research interests include AI4SE (especially software quality and maintenance), empirical software engineering, and mining software repositories. The goal is to uncover empirical evidence, extract knowledge from historical data in OSS software repositories, gleaning actionable insights for software engineering management, and developing automated approaches to support developers. I have published 30+ papers, including the top SE venues such as ICSE, ASE, ISSTA, TSE, and TOSEM.
+
+🪧 长期招收硕士和博士研究生，欢迎本科生进入实验室参与科研实习.
