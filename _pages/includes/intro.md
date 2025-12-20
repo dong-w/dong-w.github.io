@@ -4,4 +4,4 @@ Before joining Tianjin University, I worked as an Assistant Professor at the <a 
 
 My research interests include AI4SE (especially software quality and maintenance), empirical software engineering, and mining software repositories. The goal is to uncover empirical evidence, extract knowledge from historical data in OSS software repositories, gleaning actionable insights for software engineering management, and developing automated approaches to support developers. I have published 30+ papers, including the top SE venues such as ICSE, ASE, ISSTA, TSE, and TOSEM.
 
-🪧 长期招收硕士和博士研究生，欢迎本科生进入实验室参与科研实习.
+🪧 <text style="color: red">长期招收硕士和博士研究生，欢迎本科生进入实验室参与科研实习.</text>
