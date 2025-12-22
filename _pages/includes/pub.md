@@ -8,6 +8,8 @@
   Honglin Shu, Michael Fu, Junji Yu, **Dong Wang***, Chakkrit Tantithamthavorn, Yasutaka Kamei, Junjie Chen.
 - <span style="color : purple">[arXiv] **FLAME: Enhancing Functional Coverage in Processor Verification via Large Language Models**.</span><br/>
   Xiaopeng Li, Junjie Chen, Ming Yan, **Dong Wang**, Xingyu Fan, Zhentao Tang, Shixiong Kai, Jianye Hao, Mingxuan Yuan, Zan Wang.
+- <span style="color : purple">[FSE'26] **Characterizing and Mitigating False-Positive Bug Reports in the 
+Linux Kernel**.</span><br/> Jiashuo Tian, **Dong Wang***, Chen Yang, Haichi Wang, Zan Wang, Junjie Chen. The ACM International Conference on the Foundations of Software Engineering.
 - <span style="color : purple">[ICSE'26] **WiseUT: An Intelligent Framework for Unit Test Generation**.</span><br/>
 Chen Yang, Ziqi Wang, Lin Yang, **Dong Wang**, Shutao Gao, Yanjie Jiang, Junjie Chen. 
 The 48th International Conference on Software Engineering, Demos.
