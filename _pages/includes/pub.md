@@ -14,6 +14,10 @@ Linux Kernel**.</span><br/> Jiashuo Tian, **Dong Wang***, Chen Yang, Haichi Wang
 - <span style="color : purple">[ICSE'26] **WiseUT: An Intelligent Framework for Unit Test Generation**.</span><br/>
 Chen Yang, Ziqi Wang, Lin Yang, **Dong Wang**, Shutao Gao, Yanjie Jiang, Junjie Chen. 
 The 48th International Conference on Software Engineering, Demos.
+- <span style="color : purple">[MSR'26] **Humans Integrate, Agents Fix: How Agent-Authored Pull Requests 
+  Are Referenced in Practice**.</span><br/>
+Islem Khemissi,  Moataz Chouchen, **Dong Wang**, Raula Gaikovina Kula. 
+The 23rd International Conference on Mining Software Repositories, Mining Challenge.
 - <span style="color : purple">[ICSE'25] **Selecting Initial Seeds for Better JVM Fuzzing**.</span><br/>
   Tianchang Gao, Junjie Chen, **Dong Wang**, Yile Guo, Yingquan Zhao, Zan Wang. The 47th IEEE/ACM International Conference on Software Engineering.
 - <span style="color : purple">[ASE'25] **Clarifying Semantics of In-Context Examples for Unit Test Generation**.</span>🏆<span style="color : red">[**Distinguished Paper Award**]</span><br/>
