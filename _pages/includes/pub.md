@@ -7,8 +7,8 @@
 - <span style="color : purple">[arXiv] **On the Effectiveness of Training Data Optimization for LLM-based Code Generation: An Empirical Study**.</span><br/> Shiqi Kuang, Zhao Tian, Tao Xiao, **Dong Wang**, Junjie Chen. 
 - <span style="color : purple">[arXiv] **Large Language Models for Multilingual Vulnerability Detection: How Far Are We?**.</span><br/>
   Honglin Shu, Michael Fu, Junji Yu, **Dong Wang***, Chakkrit Tantithamthavorn, Yasutaka Kamei, Junjie Chen.
-- <span style="color : purple">[arXiv] **FLAME: Enhancing Functional Coverage in Processor Verification via Large Language Models**.</span><br/>
-  Xiaopeng Li, Junjie Chen, Ming Yan, **Dong Wang**, Xingyu Fan, Zhentao Tang, Shixiong Kai, Jianye Hao, Mingxuan Yuan, Zan Wang.
+- <span style="color : purple">[TCAD'26] **FLAME: Enhancing Functional Coverage in Processor Verification via Large Language Models**.</span><br/>
+  Xiaopeng Li, Junjie Chen, Ming Yan, **Dong Wang**, Xingyu Fan, Zhentao Tang, Shixiong Kai, Jianye Hao, Mingxuan Yuan, Zan Wang. IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems.
 - <span style="color : purple">[FSE'26] **Characterizing and Mitigating False-Positive Bug Reports in the 
 Linux Kernel**.</span><br/> Jiashuo Tian, **Dong Wang***, Chen Yang, Haichi Wang, Zan Wang, Junjie Chen. The ACM International Conference on the Foundations of Software Engineering.
 - <span style="color : purple">[ICSE'26] **WiseUT: An Intelligent Framework for Unit Test Generation**.</span><br/>
