@@ -7,7 +7,7 @@
 - <span style="color : purple">[arXiv] **Cross-Project Flakiness: A Case Study of the OpenStack Ecosystem**.</span><br/>
   Tao Xiao, **Dong Wang***, Shane McIntosh, Hideaki Hata, Yasutaka Kamei.
 - <span style="color : purple">[arXiv] **On the Effectiveness of Training Data Optimization for LLM-based Code Generation: An Empirical Study**.</span><br/> Shiqi Kuang, Zhao Tian, Tao Xiao, **Dong Wang**, Junjie Chen. 
-- <span style="color : purple">[arXiv] **Large Language Models for Multilingual Vulnerability Detection: How Far Are We?**.</span><br/>
+- <span style="color : purple">[EMSE'26] **Large Language Models for Multilingual Vulnerability Detection: How Far Are We?**.</span><br/>
   Honglin Shu, Michael Fu, Junji Yu, **Dong Wang***, Chakkrit Tantithamthavorn, Yasutaka Kamei, Junjie Chen.
 - <span style="color : purple">[TCAD'26] **FLAME: Enhancing Functional Coverage in Processor Verification via Large Language Models**.</span><br/>
   Xiaopeng Li, Junjie Chen, Ming Yan, **Dong Wang**, Xingyu Fan, Zhentao Tang, Shixiong Kai, Jianye Hao, Mingxuan Yuan, Zan Wang. IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems.
