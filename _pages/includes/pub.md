@@ -13,7 +13,7 @@
   Xiaopeng Li, Junjie Chen, Ming Yan, **Dong Wang**, Xingyu Fan, Zhentao Tang, Shixiong Kai, Jianye Hao, Mingxuan Yuan, Zan Wang. IEEE Transactions on Computer-Aided Design of Integrated Circuits & Systems.
 - <span style="color : purple">[FSE'26] **Characterizing and Mitigating False-Positive Bug Reports in the 
 Linux Kernel**.</span><br/> Jiashuo Tian, **Dong Wang***, Chen Yang, Haichi Wang, Zan Wang, Junjie Chen. The ACM International Conference on the Foundations of Software Engineering.
-- <span style="color : purple">[FSE'26 Tool] **SmartPatchLinker: An Open-Source Tool to Linked Changes Detection for Code Review**.</span><br/> Islem Kemissi, Moataz Chouchen， **Dong Wang**, Raula Gaikovina Kula. The ACM International Conference on the Foundations of Software Engineering.
+- <span style="color : purple">[FSE'26 Tool] **SmartPatchLinker: An Open-Source Tool to Linked Changes Detection for Code Review**.</span><br/> Islem Kemissi, Moataz Chouchen，**Dong Wang**, Raula Gaikovina Kula. The ACM International Conference on the Foundations of Software Engineering.
 - <span style="color : purple">[ICSE'26 Demos] **WiseUT: An Intelligent Framework for Unit Test Generation**.</span><br/>
 Chen Yang, Ziqi Wang, Lin Yang, **Dong Wang**, Shutao Gao, Yanjie Jiang, Junjie Chen. 
 The 48th International Conference on Software Engineering, Demos.
