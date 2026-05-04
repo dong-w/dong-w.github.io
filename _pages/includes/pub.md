@@ -2,11 +2,11 @@
 # 📌 Publications 
 - <span style="color : purple">[arXiv] **A Survey of Reinforcement Learning for Software Engineering**.</span><br/>
   **Dong Wang**, Hanmo You, Lingwei Zhu, Kaiwei Lin, Zheng Chen, Chen Yang, Junji Yu, Zan Wang, Junjie Chen.
-- <span style="color : purple">[arXiv] **Issue-Oriented Agent-Based Framework for Automated Review Comment Generation**.</span><br/>
-  Shuochuan Li, **Dong Wang***, Patanamon Thongtanunam, Zan Wang, Jiuqiao Yu, Junjie Chen.
 - <span style="color : purple">[arXiv] **On the Effectiveness of Training Data Optimization for LLM-based Code Generation: An Empirical Study**.</span><br/> Shiqi Kuang, Zhao Tian, Tao Xiao, **Dong Wang**, Junjie Chen.
 - <span style="color : purple">[TSE'26] **Cross-Project Flakiness: A Case Study of the OpenStack Ecosystem**.</span><br/>
   Tao Xiao, **Dong Wang***, Shane McIntosh, Hideaki Hata, Yasutaka Kamei. IEEE Transactions on Software Engineering.
+- <span style="color : purple">[TOSEM'26] **Issue-Oriented Agent-Based Framework for Automated Review Comment Generation**.</span><br/>
+  Shuochuan Li, **Dong Wang***, Patanamon Thongtanunam, Zan Wang, Jiuqiao Yu, Junjie Chen. ACM Transactions on Software Engineering and Methodology.
 - <span style="color : purple">[EMSE'26] **Large Language Models for Multilingual Vulnerability Detection: How Far Are We?**.</span><br/>
   Honglin Shu, Michael Fu, Junji Yu, **Dong Wang***, Chakkrit Tantithamthavorn, Yasutaka Kamei, Junjie Chen.
 - <span style="color : purple">[TCAD'26] **FLAME: Enhancing Functional Coverage in Processor Verification via Large Language Models**.</span><br/>
