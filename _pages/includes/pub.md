@@ -2,6 +2,8 @@
 # 📌 Publications 
 - <span style="color : purple">[arXiv] **A Survey of Reinforcement Learning for Software Engineering**.</span><br/>
   **Dong Wang**, Hanmo You, Lingwei Zhu, Kaiwei Lin, Zheng Chen, Chen Yang, Junji Yu, Zan Wang, Junjie Chen.
+- <span style="color : purple">[arXiv] **“Refactoring Runaway”: Understanding and Mitigating Tangled Refactorings in Coding Agents for Issue Resolution**.</span><br/>
+  Zhao Tian, Zifan Zhang, Tao Xiao, **Dong Wang**, Masanari Kondo, Junjie Chen, Yasutaka Kamei.
 - <span style="color : purple">[arXiv] **On the Effectiveness of Training Data Optimization for LLM-based Code Generation: An Empirical Study**.</span><br/> Shiqi Kuang, Zhao Tian, Tao Xiao, **Dong Wang**, Junjie Chen.
 - <span style="color : purple">[TSE'26] **Cross-Project Flakiness: A Case Study of the OpenStack Ecosystem**.</span><br/>
   Tao Xiao, **Dong Wang***, Shane McIntosh, Hideaki Hata, Yasutaka Kamei. IEEE Transactions on Software Engineering.
