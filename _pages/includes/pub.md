@@ -5,6 +5,7 @@
 - <span style="color : purple">[arXiv] **“Refactoring Runaway”: Understanding and Mitigating Tangled Refactorings in Coding Agents for Issue Resolution**.</span><br/>
   Zhao Tian, Zifan Zhang, Tao Xiao, **Dong Wang**, Masanari Kondo, Junjie Chen, Yasutaka Kamei.
 - <span style="color : purple">[arXiv] **On the Effectiveness of Training Data Optimization for LLM-based Code Generation: An Empirical Study**.</span><br/> Shiqi Kuang, Zhao Tian, Tao Xiao, **Dong Wang**, Junjie Chen.
+- <span style="color : purple">[ISSTA'26] **Context Matters: Improving the Practical Reliability of  LLM-Based Unit Test Generation**.</span><br/> Junjie Chen, Ziqi Wang, Lin Yang, Chen Yang, Xiao Chu, Jianyi Zhou, Guangtai Liang, Qianxiang Wang, **Dong Wang***.
 - <span style="color : purple">[TSE'26] **Cross-Project Flakiness: A Case Study of the OpenStack Ecosystem**.</span><br/>
   Tao Xiao, **Dong Wang***, Shane McIntosh, Hideaki Hata, Yasutaka Kamei. IEEE Transactions on Software Engineering.
 - <span style="color : purple">[TOSEM'26] **Issue-Oriented Agent-Based Framework for Automated Review Comment Generation**.</span><br/>
