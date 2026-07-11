@@ -1,4 +1,5 @@
 # 🔥 News
+- **2026.06**: Invited to serve as the ICPC 27' RENE Track Co-Chair.
 - **2026.04**: Invited to serve on the PC of FSE 27'.
 - **2025.12**: Invited to serve on the PC of ISSTA 26' and ASE 26'.
 - **2025.11**: 🎉 Our ASE 2025 paper is awarded the ACM Distinguished Paper Award.
