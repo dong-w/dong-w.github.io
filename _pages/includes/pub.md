@@ -3,6 +3,7 @@
 - <span style="color : purple">[arXiv] **A Survey of Reinforcement Learning for Software Engineering**.</span><br/>
   **Dong Wang**, Hanmo You, Lingwei Zhu, Kaiwei Lin, Zheng Chen, Chen Yang, Junji Yu, Zan Wang, Junjie Chen.
 - <span style="color : purple">[arXiv] **Large Language Models for Multi-Lingual Equivalent Mutant Detection: An Extended Empirical Study**.</span><br/>
+Honglin Shu, Zhao Tian, **Dong Wang***, Junji Yu, Jiazhe Zhang, Xuejie Cao, Junjie Chen, Yasutaka Kamei.
 - <span style="color : purple">[arXiv] **“KernelDiag: Agent-Based Root Cause Diagnosis for Kernel Crashes**.</span><br/>
   Weijing Wang, Zan Wang, **Dong Wang***, Haichi Wang, Junjie Chen.
 - <span style="color : purple">[arXiv] **“Refactoring Runaway”: Understanding and Mitigating Tangled Refactorings in Coding Agents for Issue Resolution**.</span><br/>
