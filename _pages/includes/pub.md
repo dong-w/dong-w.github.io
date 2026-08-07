@@ -6,6 +6,8 @@
 Honglin Shu, Zhao Tian, **Dong Wang***, Junji Yu, Jiazhe Zhang, Xuejie Cao, Junjie Chen, Yasutaka Kamei.
 - <span style="color : purple">[arXiv] **Evaluating Fuzz Testing for Reinforcement Learning Agents**.</span><br/>
   Zhibin Kang, Hanmo You, Dong Wang, Haiming Zheng, Junjie Chen.
+- <span style="color : purple">[arXiv] **Agent-Based Test Assertion Generation via DiversePerspective Aggregation**.</span><br/>
+  Dong Wang, Qiaoyu Han, Lin Yang, Jianyi Zhou, Guangtai Liang, and Junjie Chen.
 - <span style="color : purple">[arXiv] **KernelDiag: Agent-Based Root Cause Diagnosis for Kernel Crashes**.</span><br/>
   Weijing Wang, Zan Wang, **Dong Wang***, Haichi Wang, Junjie Chen.
 - <span style="color : purple">[arXiv] **“Refactoring Runaway”: Understanding and Mitigating Tangled Refactorings in Coding Agents for Issue Resolution**.</span><br/>
