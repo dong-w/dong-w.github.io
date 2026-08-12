@@ -18,6 +18,8 @@ Honglin Shu, Zhao Tian, **Dong Wang***, Junji Yu, Jiazhe Zhang, Xuejie Cao, Junj
   Tao Xiao, **Dong Wang***, Shane McIntosh, Hideaki Hata, Yasutaka Kamei. IEEE Transactions on Software Engineering.
 - <span style="color : purple">[TOSEM'26] **Issue-Oriented Agent-Based Framework for Automated Review Comment Generation**.</span><br/>
   Shuochuan Li, **Dong Wang***, Patanamon Thongtanunam, Zan Wang, Jiuqiao Yu, Junjie Chen. ACM Transactions on Software Engineering and Methodology.
+- <span style="color : purple">[EMSE'26] **A Study on the Impact of Natural Language Differences in Prompts on Automatic Code Generation Using LLMs**.</span><br/>
+  Haruka Tokumasu, Masanari Kondo, Alexander Serebrenik, **Dong Wang**, Kei Koyanagi, Kotaro Noguchi, Naoyasu Ubayashi, Yasutaka Kamei. 
 - <span style="color : purple">[EMSE'26] **Large Language Models for Multilingual Vulnerability Detection: How Far Are We?**.</span><br/>
   Honglin Shu, Michael Fu, Junji Yu, **Dong Wang***, Chakkrit Tantithamthavorn, Yasutaka Kamei, Junjie Chen.
 - <span style="color : purple">[TCAD'26] **FLAME: Enhancing Functional Coverage in Processor Verification via Large Language Models**.</span><br/>
