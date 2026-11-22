@@ -2,8 +2,6 @@
 # 📌 Publications 
 - <span style="color : purple">[arXiv] **A Survey of Reinforcement Learning for Software Engineering**.</span><br/>
   **Dong Wang**, Hanmo You, Lingwei Zhu, Kaiwei Lin, Zheng Chen, Chen Yang, Junji Yu, Zan Wang, Junjie Chen.
-- <span style="color : purple">[arXiv] **Large Language Models for Multi-Lingual Equivalent Mutant Detection: An Extended Empirical Study**.</span><br/>
-Honglin Shu, Zhao Tian, **Dong Wang***, Junji Yu, Jiazhe Zhang, Xuejie Cao, Junjie Chen, Yasutaka Kamei.
 - <span style="color : purple">[arXiv] **Evaluating Fuzz Testing for Reinforcement Learning Agents**.</span><br/>
   Zhibin Kang, Hanmo You, **Dong Wang**, Haiming Zheng, Junjie Chen.
 - <span style="color : purple">[arXiv] **Agent-Based Test Assertion Generation via DiversePerspective Aggregation**.</span><br/>
@@ -12,6 +10,8 @@ Honglin Shu, Zhao Tian, **Dong Wang***, Junji Yu, Jiazhe Zhang, Xuejie Cao, Junj
   Weijing Wang, Zan Wang, **Dong Wang***, Haichi Wang, Junjie Chen.
 - <span style="color : purple">[arXiv] **“Refactoring Runaway”: Understanding and Mitigating Tangled Refactorings in Coding Agents for Issue Resolution**.</span><br/>
   Zhao Tian, Zifan Zhang, Tao Xiao, **Dong Wang**, Masanari Kondo, Junjie Chen, Yasutaka Kamei.
+- <span style="color : purple">[TOSEM'26] **Large Language Models for Multi-Lingual Equivalent Mutant Detection: An Extended Empirical Study**.</span><br/>
+Honglin Shu, Zhao Tian, **Dong Wang***, Junji Yu, Jiazhe Zhang, Xuejie Cao, Junjie Chen, Yasutaka Kamei. ACM Transactions on Software Engineering and Methodology
 - <span style="color : purple">[TOSEM'26] **On the Effectiveness of Training Data Optimization for LLM-based Code Generation: An Empirical Study**.</span><br/> Shiqi Kuang, Zhao Tian, Tao Xiao, **Dong Wang**, Junjie Chen. ACM Transactions on Software Engineering and Methodology.
 - <span style="color : purple">[ISSTA'26] **Context Matters: Improving the Practical Reliability of  LLM-Based Unit Test Generation**.</span><br/> Junjie Chen, Ziqi Wang, Lin Yang, Chen Yang, Xiao Chu, Jianyi Zhou, Guangtai Liang, Qianxiang Wang, **Dong Wang***.
 - <span style="color : purple">[TSE'26] **Cross-Project Flakiness: A Case Study of the OpenStack Ecosystem**.</span><br/>
